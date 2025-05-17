@@ -29,7 +29,7 @@ This repository is both a **public accountability journal** and a **curated show
 
 | Area      | Goal                           | Progress       |
 |-----------|--------------------------------|----------------|
-| DSA       | Solve 150 LeetCode problems    | ` / 150 ✅`   |
+| DSA       | Solve 150 LeetCode problems    | `13 / 150 ✅`   |
 | SQL       | Complete LeetCode SQL 50 Plan  | `15 / 50 ✅`    |
 | Projects  | Build 10 hands-on mini-projects| `3 / 10 ✅`     |
 | Logs      | Maintain daily updates for 90 days | `1 / 90 ✅` |
