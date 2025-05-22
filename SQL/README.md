@@ -16,6 +16,21 @@ This repository contains my solutions to the [LeetCode SQL 50 Study Plan](https:
 | 4 | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | ✅ Done | [Link](./Basic_Select/04_aricle_views_I.sql) |
 | 5 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Easy | ✅ Done | [Link](SQL/Basic_Select/05_invalid_tweets.sql) |
 
+### 🟡 Basic JOINs
+
+| # | Problem | Difficulty | Status | Solution |
+|---|---------|------------|--------|----------|
+| 6 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | ⏳ Pending | - |
+| 7 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | ⏳ Pending | - |
+| 8 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | ⏳ Pending | - |
+| 9 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | ⏳ Pending | - |
+| 10 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | ⏳ Pending | - |
+| 11 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | ⏳ Pending | - |
+| 12 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Medium | ⏳ Pending | - |
+| 13 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | ⏳ Pending | - |
+| 14 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | ⏳ Pending | - |
+
+
 ### 🔵 Aggregate Functions
 
 | # | Problem | Difficulty | Status | Solution |
