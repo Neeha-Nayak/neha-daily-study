@@ -1,4 +1,4 @@
-# 🔁 Two-Pointer Technique
+# 🔁 Two-Pointers Technique
 
 This folder contains problems using the **Two-Pointer** approach.
 
