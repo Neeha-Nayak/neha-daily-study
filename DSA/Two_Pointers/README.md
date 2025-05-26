@@ -1,6 +1,16 @@
-# 🧭 Two-Pointer Technique
+# 🔁 Two-Pointer Technique
 
 This folder contains problems using the **Two-Pointer** approach.
+
+---
+
+## 🧠 Key Idea
+
+Two pointers help optimize time and space by reducing unnecessary iterations. They're especially useful for:
+- Sorted arrays/lists
+- In-place modifications
+- Partitioning problems
+- Substring or subarray scans
 
 ---
 
@@ -23,10 +33,3 @@ This folder contains problems using the **Two-Pointer** approach.
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [✔️](./valid_palindrome.py) | Skip non-alphanumeric |
 | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | Easy | [✔️](./valid_word_abbreviation.py) | Custom pointer logic |
 
-
----
-
-## 📝 Notes
-
-- Use when input is **sorted**
-- Common patterns: shrinking window, meeting in the middle
