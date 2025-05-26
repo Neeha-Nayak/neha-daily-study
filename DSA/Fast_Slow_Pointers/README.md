@@ -1,4 +1,4 @@
-# 🐢🐇 Fast and Slow Pointer Pattern (Tortoise and Hare)
+# 🐢🐇 Fast and Slow Pointers Pattern (Tortoise and Hare)
 
 This folder contains solutions that use the **Fast and Slow Pointer** technique — a common pattern for solving cycle detection, middle-finding, and duplication problems in linked lists, arrays, or number sequences.
 
